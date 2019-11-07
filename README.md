@@ -1,18 +1,29 @@
 ---
-home: true
-heroImage: /hero.png
+layout: Home
+title: Home
+# heroImage: /hero.png
 heroText: Health Open-Source Software
-tagline: Open-source software for health interventions in low and middle-income countries
+tagline: Curated list of open-source resources for health interventions in low and middle-income countries
 actionText: Introduction →
 actionLink: /introduction
 features:
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Vue-Powered
-    details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-  - title: Performant
+  - title: Operational
     details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+    href: /operational
+  - title: System
+    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+    href: /system
+  - title: Frontend
+    details: Minimal setup with markdown-centered project structure helps you focus on writing.
+    href: /frontend
+  - title: Backend
+    details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+    href: /backend
+  - title: Implementer tools
+    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+    href: /implementer
+  - title: Developer tools
+    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+    href: /developer
 footer: MIT Licensed | Copyright © 2019-present Pierre-Louis Mercereau
 ---
-
-# health-oss
