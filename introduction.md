@@ -10,4 +10,5 @@ This site has two objectives:
 ## Further reading
 
 [Principles for Digital Development](https://digitalprinciples.org/)
+
 [Digital Square](https://digitalsquare.org/), in particular the [Global Goods Guidebook](https://digitalsquare.org/resources/2019/9/13/global-goods-guidebook)
