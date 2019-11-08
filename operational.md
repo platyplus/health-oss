@@ -27,3 +27,9 @@
 ### [CommCare](https://www.dimagi.com/commcare/) <Badges user="dimagi" repo="commcare-hq"/>
 
 ### [OpenSRP](http://smartregister.org/) <Badges user="OpenSRP" repo="opensrp-client-core"/>
+
+### RapidSMS
+
+### RapidPro
+
+### Frontline SMS

@@ -26,6 +26,36 @@
 
 ### Hasura
 
-## Authentication
+## Caching
 
-## Authorisation
+### Memcached
+
+### Reddis
+
+## Authentication/Authorisation
+
+### OAuth
+
+### JWT
+
+### OpenID
+
+## Message Brokers
+
+### RabbitMW
+
+### Kafka
+
+## Search Engines
+
+### Lucene
+
+### ElasticSearch
+
+### SolR
+
+## Storage
+
+### Minio
+
+### Samba

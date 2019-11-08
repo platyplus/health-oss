@@ -8,18 +8,18 @@ module.exports = {
     sidebar: [
       '/introduction',
       '/operational',
-      '/system',
       '/frontend',
       '/backend',
+      '/devops',
       '/developer',
       '/implementer'
     ],
     nav: [
       { text: 'Introduction', link: '/introduction' },
       { text: 'Operational', link: '/operational' },
-      { text: 'System', link: '/system' },
       { text: 'Frontend', link: '/frontend' },
       { text: 'Backend', link: '/backend' },
+      { text: 'DevOps', link: '/devops' },
       { text: 'Developer', link: '/developer' },
       { text: 'Implementer', link: '/implementer' }
     ]
