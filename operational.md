@@ -28,8 +28,6 @@
 
 ### [OpenSRP](http://smartregister.org/) <Badges user="OpenSRP" repo="opensrp-client-core"/>
 
-### RapidSMS
-
-### RapidPro
+### [RapidPro](https://rapidpro.io/) <Badges user="rapidpro" repo="rapidpro"/>
 
 ### Frontline SMS
