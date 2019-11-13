@@ -4,15 +4,15 @@
 
 ### Relational databases
 
-#### PostgreSQL
+#### PostgreSQL <Badges user="postgres" repo="postgres" />
 
-#### MySQL
+#### MySQL <Badges user="mysql" repo="mysql-server" />
 
 ### NoSQL databases
 
-#### MongoDB
+#### MongoDB <Badges user="mongodb" repo="mongo" />
 
-#### CouchDB
+#### CouchDB <Badges user="apache" repo="couchdb" />
 
 ## API
 
@@ -20,17 +20,11 @@
 
 ### GraphQL
 
-## Headless CMS
-
-### PostgREST
-
-### Hasura
-
 ## Caching
 
-### Memcached
+### Memcached <Badges user="" repo="" />
 
-### Reddis
+### Reddis <Badges user="" repo="" />
 
 ## Authentication/Authorisation
 
@@ -42,20 +36,24 @@
 
 ## Message Brokers
 
-### RabbitMW
+### RabbitMQ <Badges user="rabbitmq" repo="rabbitmq-server" />
 
-### Kafka
+### Kafka <Badges user="apache" repo="kafka" />
 
 ## Search Engines
 
-### Lucene
+### Lucene <Badges user="apache" repo="lucene-solr" />
 
-### ElasticSearch
-
-### SolR
+### ElasticSearch <Badges user="elastic" repo="elasticsearch" />
 
 ## Storage
 
-### Minio
+### Minio <Badges user="minio" repo="minio" />
 
-### Samba
+### Samba <Badges user="samba-team" repo="samba" />
+
+## Headless CMS
+
+### PostgREST <Badges user="PostgREST" repo="postgrest" />
+
+### Hasura GraphQL Engine <Badges user="hasura" repo="graphql-engine" />
