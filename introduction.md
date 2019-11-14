@@ -22,6 +22,8 @@ This list of software is not exhaustive, as the subject is too broad to run a fu
 
 ## Further reading
 
+[Digital Health Atlas](https://www.digitalhealthatlas.org/)
+
 [Principles for Digital Development](https://digitalprinciples.org/)
 
 [Digital Square](https://digitalsquare.org/), in particular the [Global Goods Guidebook](https://digitalsquare.org/resources/2019/9/13/global-goods-guidebook)

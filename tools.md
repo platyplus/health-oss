@@ -8,6 +8,10 @@ The French CNIL (National Commission on Informatics and Liberty) is an independe
 The CNIL edited a Privacy Impact Assessment Software that guides organisations to comply with the GDPR requirements.
 This software is open-source and available both in French and English.
 
+### [Datica HIPAA Compliance Policies](https://policy.datica.com/) <Badges user="catalyzeio" repo="policies" />
+
+Datica's HIPAA Compliance Policies
+
 ## Code editor
 
 Lots of code editors, or more advanced IDE are available, and it is quite easy to find reviews on the Net. [VSCode](https://code.visualstudio.com/) is both lightweight and comprehensive, is backed by one major IT compagny (Microsoft), has a dynamic community and can be extended through a vast choice of plugins.
