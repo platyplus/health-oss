@@ -4,14 +4,9 @@
 
 ### [OpenMRS](https://openmrs.org/) <Badges user="openmrs" repo="openmrs-core" />
 
-OpenMRS is a software platform and a reference application that enables design of a customized medical
-records system (MRS). It is a common platform upon which health informatics and eHealth efforts in low-income
-countries can be built. The system is based on a conceptual database structure that is not dependent on the
-actual types of medical information required to be collected or on particular data collection forms and so can be
-customized for different uses.
-OpenMRS is based on the principle that information should be stored in a way that makes it easy to summarize
-and analyze (i.e., minimal use of free text and maximum use of coded information). At its core is a concept
-dictionary that stores all diagnoses, tests, procedures, drugs, and other general questions and potential answers.
+OpenMRS is a software platform and a reference application that enables design of a customized medical records system (MRS). It is a common platform upon which health informatics and eHealth efforts in low-income countries can be built. The system is based on a conceptual database structure that is not dependent on the actual types of medical information required to be collected or on particular data collection forms and so can be customized for different uses.
+
+OpenMRS is based on the principle that information should be stored in a way that makes it easy to summarize and analyse (i.e., minimal use of free text and maximum use of coded information). At its core is a concept dictionary that stores all diagnoses, tests, procedures, drugs, and other general questions and potential answers.
 
 ### [Bahmni](https://www.bahmni.org/) <Badges user="Bahmni" repo="bahmni-core" />
 
@@ -80,7 +75,7 @@ To ensure interventions reach recommended coverage thresholds, it is necessary t
 ### [SORMAS](https://sormasorg.helmholtz-hzi.de/) <Badges user="hzi-braunschweig" repo="SORMAS-Project" />
 
 The Surveillance Outbreak Response Management and Analysis System (SORMAS®) is an open source software that is designed to organize and facilitate disease control and outbreak management procedures in addition to disease surveillance and epidemiological analysis for all administrative levels of the public health system. The mission of SORMAS is to improve prevention and control of communicable diseases particularly in resource-poor settings. SORMAS is free of charge and adheres to the highest data protection standards, good scientific practice, and open access policy. SORMAS is characterized by the following features: digitalized notification at the health facility level, bidirectional information flow, contact follow-up
-management, and user-centered design. SORMAS includes disease-specific process models for highpriority, epidemic-prone diseases.
+management, and user-centred design. SORMAS includes disease-specific process models for high priority, epidemic-prone diseases.
 
 ## Mobile Health
 

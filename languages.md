@@ -1,4 +1,4 @@
-# Programing languages
+# Programming languages
 
 ## [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
