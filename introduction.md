@@ -1,5 +1,4 @@
 ---
-prev: false
 next: operational
 ---
 
@@ -10,22 +9,26 @@ This site has two objectives:
 - to guide the health organisations in the technical component of their digital interventions, in providing them a landscape of the available technologies that may be directly implemented, or that may be used in the design of a custom solution.
 - to inform the developers about the existing technologies that may be of some help in their work with the above organisations.
 
-This list of software is not exhaustive, as the subject is too broad to run a full-range benchmark, and as some pretty exiting technologies may not bring added value to the current status quo in the LMIC digital health sector. It also reflects the personal view and experience of the author. Some items should be added to the list, don't hesitate to contribute.
-
 Some solutions exist out of the box. This site lists some of those [operational solutions](/operational). Those functional blocks can be used as is, of can be gather together with the cost of an interoperability layer and multiple user interfaces.
 
 Most of the modern applications split their logic into two blocks: the user interface, or [frontend](/frontend), and the business logic and data storage, that occurs on servers, or [backend](/backend).
-This site presents the main technologies of the two worlds in separate pages, but the same [programming languages](/languages), such as JavaScript, can be are used on both sides.
+This site presents the main technologies of the two worlds in separate pages, but the same [programming languages](/languages), such as JavaScript, can be are used on both ends.
 
 The [DevOps](/devops) section documents the most popular tools to ensure continuous integration and delivery of applications, as well as tools to keep the service up and running.
 
 Last, the [miscellaneous tools](/tools) section presents a few tools and resources that could be of some help for the developers and implementers evolving in the Digital Health sector in low and middle income countries.
 
-## Learn
+<!-- ## Learn
 
 [freeCodeCamp](https://www.freecodecamp.org/)
 
-[Awesome Roadmaps](https://github.com/orsanawwad/awesome-roadmaps)
+[Awesome Roadmaps](https://github.com/orsanawwad/awesome-roadmaps) -->
+
+## How technologies are picked
+
+This list of software is not exhaustive, as the subject is too broad to run a full-range benchmark, and as some pretty exiting technologies may not bring added value to the current status quo in the LMIC digital health sector. It also reflects the personal view and experience of the author. Some items should be added to the list, don't hesitate to contribute.
+
+When a technology is based on a GitHub repository, three badges are put next to its title: number of stars, number of contributors, and last commit. Although quite arbitrary, this information indicates the size and vitality of the community that backs the technology.
 
 ## Further reading
 
