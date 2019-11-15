@@ -2,7 +2,7 @@
 
 ## Operating Systems
 
-### Ubuntu
+### [Ubuntu](http://ubuntu.com/)
 
 Many Linux distributions are available, but Ubuntu is one the the most popular ones and has a fast learning curve. Its server version is commonly used as a basis for many services.
 
@@ -27,6 +27,8 @@ The [MSF](https://www.msf.org/) Operational Center of Brussels configured [NixOS
 Traefik can be used as an HTTP reverse proxy and load balancer, and goes along with Docker and Docker swarm pretty well, as it supports annotations, meaning there is no need to change Traefik's configuration when endpoint services change, as service-specific rules are defined together with each Docker service.
 
 ### Ngnix
+
+Nginx is a web server that is often used for the distribution of static files, but also for its load balancer, reverse proxy and cache capabilities. It is usually chosen for its excellent performance, but its advanced configuration requires some learning time.
 
 ## Containers
 
