@@ -37,7 +37,11 @@ TypeScript is a programming language that has been built on top of JavaScript. I
 
 Historically, PHP is one of the first scripting languages available for creating websites. Although the language significantly evolved since, it tends to be outweighed by more dynamic communities such as Python or JavaScript. However, PHP is mastered by numerous developers, and the [Laravel](https://laravel.com/) framework offers a serious solution for bringing up a solid application backend.
 
-## Java
+## [Java](https://www.java.com/)
+
+Java is one of the most common programming languages. It is backed by Oracle. While some of the blocks remain proprietary, most of Java has now been open sourced.
+
+Java is one of the programming languages that are the mostly used in corporations, but tends to be overshadowed by other languages such as JavaScript or Python when it comes to the open source world. It may be due to the fact that Java tends to be excessively verbose, and that the use of a Java Runtime Environment, that allows to run any code on any type of operating system, became a less interesting feature as [containerisation of applications](/devops.html#containers) became the new trend to deploy and run services.
 
 ## Go
 
