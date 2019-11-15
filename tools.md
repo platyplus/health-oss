@@ -18,14 +18,14 @@ Lots of code editors, or more advanced IDE are available, and it is quite easy t
 
 ## Git Repository hosting
 
-### GitHub
+### [GitHub](https://github.com/)
 
 Leading code hosting website, and as a consequence, offers access to the broadest open-source community.
 
-### GitLab
+### [GitLab](https://gitlab.com/)
 
 Another code hosting solution. GitLab also offers a CI/CD solution that has the reputation of being one of the best available.
 
-### BitBucket
+### [BitBucket](https://bitbucket.org/)
 
 Altassian's code hosting solution. Well integrated with the vast Altassian suite.

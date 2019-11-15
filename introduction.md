@@ -14,6 +14,9 @@ This site has two objectives:
 
 This list of software is not exhaustive, as the subject is too broad to run a full-range benchmark, and as some pretty exiting technologies may not bring added value to the current status quo in the LMIC digital health sector. It also reflects the personal view and experience of the author. Some items should be added to the list, don't hesitate to contribute.
 
+Most of the modern applications split their logic into two blocks: the user interface, or [frontend](/frontend), and the business logic and data storage, that occurs on servers, or [backend](/backend).
+This site presents the main technologies of the two worlds in separate pages, but the same [programming languages](/languages), such as JavaScript, can be are used on both sides.
+
 ## Learn
 
 [freeCodeCamp](https://www.freecodecamp.org/)
