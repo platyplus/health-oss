@@ -24,9 +24,11 @@ Last, the [miscellaneous tools](/tools) section presents a few tools and resourc
 
 [Awesome Roadmaps](https://github.com/orsanawwad/awesome-roadmaps) -->
 
-## How technologies are picked
+## How this list is done
 
 This list of software is not exhaustive, as the subject is too broad to run a full-range benchmark, and as some pretty exiting technologies may not bring added value to the current status quo in the LMIC digital health sector. It also reflects the personal view and experience of the author: if you think this list is opinionated, you're right, it is. If you believe some items are missing and should be added to the list, don't hesitate to contribute in editing the site - it will trigger a pull request on the site's [GitHub repository](https://github.com/platyplus/health-oss).
+
+Technologies are sometimes described in using the pitch from their authors, or poached from other public sources, such as the [Global Goods Guidebook](https://digitalsquare.org/resources/2019/9/13/global-goods-guidebook) from [Digital Square](https://digitalsquare.org/). With time the descriptions will be improved. Once again, don't hesitate to contribute.
 
 When a technology is based on a GitHub repository, three badges are put next to its title: number of stars, number of contributors, and last commit. Although quite arbitrary, this information indicates the size and vitality of the community that backs the technology.
 
@@ -35,8 +37,6 @@ When a technology is based on a GitHub repository, three badges are put next to 
 The World Health Organisation launched a platform to gather the main Digital Health interventions across the world into a [Digital Health Atlas](https://www.digitalhealthatlas.org/).
 
 The [Principles for Digital Development](https://digitalprinciples.org/) are nine living guidelines that are designed to help integrate best practices into technology-enabled programs and are intended to be updated and refined over time. They include guidance for every phase of the project life cycle, and they are part of an ongoing effort among development practitioners to share knowledge and support continuous learning. The Digital Principles were first created in consultation with organizations such as The Bill and Melinda Gates Foundation, the Swedish International Development Agency (SIDA), the UN’s Children’s Fund (UNICEF), UN Development Program (UNDP), the World Bank, and the U.S. Agency for International Development (USAID), and the World Health Organization (WHO).
-
-[Digital Square](https://digitalsquare.org/), in particular the [Global Goods Guidebook](https://digitalsquare.org/resources/2019/9/13/global-goods-guidebook)
 
 [State of JavaScript](https://stateofjs.com/)
 
