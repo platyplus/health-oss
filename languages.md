@@ -33,9 +33,11 @@ TypeScript is a programming language that has been built on top of JavaScript. I
 
 ## [Python](https://www.python.org/)
 
-## Java
+## [PHP](https://www.php.net/) <Badges user="php" repo="php-src" />
 
-## PHP
+Historically, PHP is one of the first scripting languages available for creating websites. Although the language significantly evolved since, it tends to be outweighed by more dynamic communities such as Python or JavaScript. However, PHP is mastered by numerous developers, and the [Laravel](https://laravel.com/) framework offers a serious solution for bringing up a solid application backend.
+
+## Java
 
 ## Go
 
