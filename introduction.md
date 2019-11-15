@@ -11,7 +11,7 @@ This site has two objectives:
 
 Some solutions exist out of the box. This site lists some of those [operational solutions](/operational). Those functional blocks can be used as is, of can be gather together with the cost of an interoperability layer and multiple user interfaces.
 
-Most of the modern applications split their logic into two blocks: the user interface, or [frontend](/frontend), and the business logic and data storage, that occurs on servers, or [backend](/backend).
+Most of the modern applications are distributed and split their logic into two blocks: the user interface, or [frontend](/frontend), and the business logic and data storage, that occurs on servers, or [backend](/backend).
 This site presents the main technologies of the two worlds in separate pages, but the same [programming languages](/languages), such as JavaScript, can be are used on both ends.
 
 The [DevOps](/devops) section documents the most popular tools to ensure continuous integration and delivery of applications, as well as tools to keep the service up and running.
