@@ -42,7 +42,7 @@ Nginx is a web server that is often used for the distribution of static files, b
 
 ### [Kubernetes](https://kubernetes.io/fr/) <Badges user="kubernetes" repo="kubernetes"/>
 
-### [Docker Swarm](https://docs.docker.com/engine/swarm/)
+### [Docker Swarm](https://docs.docker.com/engine/swarm/) <Badges user="docker" repo="swarm" />
 
 ### [Knative](https://cloud.google.com/knative/) <Badges user="knative" repo="serving"/>
 
