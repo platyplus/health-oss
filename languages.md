@@ -40,3 +40,5 @@ TypeScript is a programming language that has been built on top of JavaScript. I
 ## Go
 
 ## R
+
+R is a specialised programming language for data processing and statistics. It is vastly used in data science, and data specialists may want to know it in order to mine and extract intelligence from existing datasets. It is sometimes the preferred tool of epidemiologists for data processing, such as in the [R4Epis](https://r4epis.netlify.com/) initiative.
