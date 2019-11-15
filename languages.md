@@ -43,6 +43,8 @@ Java is one of the most common programming languages. It is backed by Oracle. Wh
 
 Java is one of the programming languages that are the mostly used in corporations, but tends to be overshadowed by other languages such as JavaScript or Python when it comes to the open source world. It may be due to the fact that Java tends to be excessively verbose, and that the use of a Java Runtime Environment, that allows to run any code on any type of operating system, became a less interesting feature as [containerisation of applications](/devops.html#containers) became the new trend to deploy and run services.
 
+[Spring Boot](https://spring.io/) is a full Java framework for building web services.
+
 ## Go
 
 ## [R](https://www.r-project.org/)
