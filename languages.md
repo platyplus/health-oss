@@ -47,7 +47,7 @@ Java is one of the programming languages that are the mostly used in corporation
 
 ## [Go](https://golang.org) <Badges user="golang" repo="go" />
 
-Go is a relatively new (2009) programming language developed by Google. Its goal is to allow the building of strong, performant, compiled applications while offering language that would remain easy to learn and easy to understand. Go is commonly used in the development of microservices and cloud technologies. It is one of the top trending languages in GitHub, and deserves to be closely monitored
+Go is a relatively new (2009) programming language developed by Google. Its goal is to allow the building of strong, performant, compiled applications while offering language that would remain easy to learn and easy to understand. Go is commonly used in the development of microservices and cloud technologies. It is one of the top trending languages in GitHub, and deserves to be closely monitored.
 
 ## [R](https://www.r-project.org/)
 
