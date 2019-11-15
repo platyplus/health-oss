@@ -28,7 +28,7 @@ Last, the [miscellaneous tools](/tools) section presents a few tools and resourc
 
 This list of software is not exhaustive, as the subject is too broad to run a full-range benchmark, and as some pretty exiting technologies may not change the statu quo in the LMIC digital health sector. It also reflects the personal view and experience of the author: if you think this list is opinionated, you're right, it is. If you believe some items are missing and should be added to the list, don't hesitate to contribute in editing the site - it will trigger a pull request on the site's [GitHub repository](https://github.com/platyplus/health-oss).
 
-Technologies are sometimes described in using the pitch from their authors, or poached from other public sources, such as the [Global Goods Guidebook](https://digitalsquare.org/resources/2019/9/13/global-goods-guidebook) from [Digital Square](https://digitalsquare.org/). With time the descriptions will be improved. Once again, don't hesitate to contribute.
+Technologies are sometimes described in using the pitch from their authors, or poached from other public sources, such as the [Global Goods Guidebook](https://digitalsquare.org/resources/2019/9/13/global-goods-guidebook) from [Digital Square](https://digitalsquare.org/). The descriptions will be improved with time. Once again, don't hesitate to contribute.
 
 When a technology is based on a GitHub repository, three badges are put next to its title: number of stars, number of contributors, and last commit. Although quite arbitrary, this information indicates the size and vitality of the community that backs the technology.
 
