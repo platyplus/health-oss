@@ -20,16 +20,18 @@
 
 ## Mobile interface
 
-### Hybrid
+## Hybrid interfaces
 
-### Progressive Web App
+### Progressive Web Apps
 
 #### Workbox
 
-#### Cordova
+### Cordova
 
-#### Quasar
+### Capacitor
 
-#### Ionic
+### Quasar
+
+### Ionic
 
 ### Native
