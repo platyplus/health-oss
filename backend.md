@@ -90,7 +90,11 @@ Samba is the implementation of the Microsoft network file system for Linux machi
 
 ### [RabbitMQ](https://www.rabbitmq.com/) <Badges user="rabbitmq" repo="rabbitmq-server" />
 
+RabbitMQ is an open-source message-broker software (sometimes called message-oriented middleware) that originally implemented the Advanced Message Queuing Protocol (AMQP) and has since been extended with a plug-in architecture to support Streaming Text Oriented Messaging Protocol (STOMP), Message Queuing Telemetry Transport (MQTT), and other protocols.
+
 ### [Kafka](https://kafka.apache.org/) <Badges user="apache" repo="kafka" />
+
+Apache Kafka is part of the well known Hadoop Big Data ecosystem. It has been developed by LinkedIn and donated to the Apache Software Foundation. Kafka aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds. It is a software where queues can be defined, applications may connect to the queue and transfer a message onto it. Kafka can connect to external systems (for data import/export) via Kafka Connect and provides Kafka Streams, a Java stream processing library.
 
 ## SMS messages
 
