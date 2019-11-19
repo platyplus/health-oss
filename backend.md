@@ -115,7 +115,7 @@ Several libraries are avaiable to connect a computer with a GSM mobile or any ot
 - [Jasmin](https://www.jasminsms.com/) <Badges user="jookies" repo="jasmin"/>
 - [PlaySMS](https://playsms.org/) <Badges user="antonraharja" repo="playSMS"/>
 
-### Cloud services
+### SMS cloud services
 
 Alternatively, it is possible to delegate the sending and receiving of SMS to a cloud platform through an HTTP API. As explain in the above, this approach is not open-source, but you may want to keep it simple in delegating SMS management to a third party. Here are two of the most popular SMS cloud services:
 
