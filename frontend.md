@@ -16,11 +16,9 @@ React has been created and is still backed by Facebook. React has the biggest op
 
 Angular is historically the first modern frontend framework, created by Google. Its strict architecture and maturity keeps it attractive to the private sector (based on job market). Angular 2+ is not backward compatible with the initial AngularJS first version.
 
-### Charts
+### Data visualisation
 
 Data visualisation is a recurrent need in health software: patient dashboards, service monitoring, reporting...
-
-Some
 
 #### [ChartJS](http://www.chartjs.org/) <Badges user="chartjs" repo="Chart.js" />
 
@@ -30,9 +28,9 @@ Chart.js offers simple, clean and flexible charts. It is easy to integrate with 
 
 D3 is a more complete library, and virtually allows any type of visualisation. However it has a slight steeper learning curve, and the types of visualisation sometimes differ on an user interface standpoint.
 
-### Geodata
+#### [Leaflet](https://leafletjs.com/) <Badges user="Leaflet" repo="Leaflet" />
 
-#### Leaflet
+Leaflet is a mobile-friendly JavaScript library for interactive maps. It is designed with simplicity, performance and usability in mind. Although other libraries exist, Leaflet is a good balance between simplicity and exhaustiveness.
 
 ## Mobile interface
 
