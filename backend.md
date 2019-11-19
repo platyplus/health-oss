@@ -36,9 +36,7 @@ Unlike a relational database, a CouchDB database does not store data and relatio
 
 ## API
 
-### [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
-
-### [GraphQL](https://graphql.org/)
+As previously said, most of the modern applications architectures separate the user interface (frontend) from the data processing and storage (backend). The frontend and the backend interface through an API, whose role is to get structured data from the server, or to submit changes to the data. [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) became the most common architecture, but some constraints still remain, and Facebook developed and open-sources the [GraphQL](https://graphql.org/) standard in 2012. While GraphQL is more modern and has a growing community of developers and users, REST remains the main standard, and comes with more tools and libraries.
 
 ## Headless Content Management System
 
