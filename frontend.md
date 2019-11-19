@@ -18,9 +18,17 @@ Angular is historically the first modern frontend framework, created by Google. 
 
 ### Charts
 
-#### D3
+Data visualisation is a recurrent need in health software: patient dashboards, service monitoring, reporting...
 
-#### ChartJS
+Some
+
+#### [ChartJS](http://www.chartjs.org/) <Badges user="chartjs" repo="Chart.js" />
+
+Chart.js offers simple, clean and flexible charts. It is easy to integrate with any JavaScript framework, and offers nice features such as animated charts and mixed chart types. The number of chart types is deliberately small in order to keep a consistent and user interface.
+
+#### [D3](https://d3js.org) <Badges user="d3" repo="d3" />
+
+D3 is a more complete library, and virtually allows any type of visualisation. However it has a slight steeper learning curve, and the types of visualisation sometimes differ on an user interface standpoint.
 
 ### Geodata
 
