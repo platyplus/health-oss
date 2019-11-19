@@ -74,11 +74,11 @@ Minio is a performant object storage system that is fully compatible with Amazon
 
 Samba is the implementation of the Microsoft network file system for Linux machines. It enables the development of simple, robust file sharing systems that interacts with Windows end users.
 
-## Caching
+<!-- ## Caching
 
 ### [Memcached](https://memcached.org/) <Badges user="memcached" repo="memcached" />
 
-### [Redis](https://redis.io/) <Badges user="antirez" repo="redis" />
+### [Redis](https://redis.io/) <Badges user="antirez" repo="redis" /> -->
 
 ## Search Engines
 
