@@ -35,7 +35,7 @@ TypeScript is a programming language that has been built on top of JavaScript. I
 
 Python is a language that excels in rapid application development. It was initially developed as a scripting language for building prototypes that meant to be then coded in C++, but it turned out to be performant enough to be used in production. Python's design philosophy emphasizes code readability. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Python has been notably boosted by its use in Data Science and Artificial Intelligence.
 
-The most famous web framework is [Django](https://www.djangoproject.com/), that allows to write web applications really fast. It can be used to create REST API with [Django Rest Framework](https://www.django-rest-framework.org/). [Flask]() is another popular lightweight Python framework.
+The most famous web framework is [Django](https://www.djangoproject.com/), that allows to write web applications really fast. It can be used to create REST API with [Django Rest Framework](https://www.django-rest-framework.org/). [Flask](https://palletsprojects.com/p/flask/) is another popular lightweight Python framework.
 
 ## [PHP](https://www.php.net/) <Badges user="php" repo="php-src" />
 
