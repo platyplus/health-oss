@@ -84,7 +84,11 @@ Samba is the implementation of the Microsoft network file system for Linux machi
 
 ### [Lucene](https://lucene.apache.org/) <Badges user="apache" repo="lucene-solr" />
 
+Apache Lucene is a high-performance, full-featured text search engine library written entirely in Java. It is a technology suitable for nearly any application that requires full-text search, especially cross-platform.
+
 ### [ElasticSearch](https://www.elastic.co/) <Badges user="elastic" repo="elasticsearch" />
+
+Elasticsearch is a search engine based on the Lucene library. It provides a distributed, full-text search engine with an HTTP web interface and schema-free JSON documents. Parts of the software are licensed under various open-source licenses, while other parts fall under the proprietary Elastic License. According to the DB-Engines ranking, Elasticsearch is the most popular enterprise search engine followed by Apache Solr, also based on Lucene.
 
 ## Message Brokers
 
