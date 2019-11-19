@@ -62,7 +62,11 @@ Using PostgREST is an alternative to manual [CRUD](https://en.wikipedia.org/wiki
 
 ### [Minio](https://min.io/) <Badges user="minio" repo="minio" />
 
+Minio is a performant object storage system that is fully compatible with Amazon S3. If fully integrates with identity and access manaagement systems, and offers numerous ways to trigger computations.
+
 ### [Samba](https://www.samba.org/) <Badges user="samba-team" repo="samba" />
+
+Samba is the implementation of the Microsoft network file system for Linux machines. It enables the development of simple, robust file sharing systems that interacts with Windows end users.
 
 ## Caching
 
