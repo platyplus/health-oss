@@ -40,7 +40,7 @@ Unlike a relational database, a CouchDB database does not store data and relatio
 
 ### [GraphQL](https://graphql.org/)
 
-## Headless CMS
+## Headless Content Management System
 
 ### [PostgREST](http://postgrest.org/) <Badges user="PostgREST" repo="postgrest" />
 
@@ -48,21 +48,27 @@ Using PostgREST is an alternative to manual [CRUD](https://en.wikipedia.org/wiki
 
 ### [Hasura GraphQL Engine](https://hasura.io/) <Badges user="hasura" repo="graphql-engine" />
 
+Hasura GraphQL Engine is a fast GraphQL server that gives instant, realtime GraphQL APIs over Postgres, with webhook triggers on database events, and remote schemas for business logic.
+
+Hasura helps to build GraphQL apps backed by Postgres or incrementally move to GraphQL for existing applications using Postgres.
+
 ### [Strapi](https://strapi.io/) <Badges user="strapi" repo="strapi" />
 
-## Authentication/Authorisation
+Strapi is a free and open source headless CMS. It works with SQL and NoSQL databases and is easily customisable with custom data schema, routes and plugins. It can run on any cloud solution as well as on a dedicated server. It exposes the data over a REST API or a GraphQL API (with still some limitations).
+
+<!-- ## Authentication/Authorisation
 
 ### OAuth
 
 ### JWT
 
-### OpenID
+### OpenID -->
 
 ## Storage
 
 ### [Minio](https://min.io/) <Badges user="minio" repo="minio" />
 
-Minio is a performant object storage system that is fully compatible with Amazon S3. If fully integrates with identity and access manaagement systems, and offers numerous ways to trigger computations.
+Minio is a performant object storage system that is fully compatible with Amazon S3. If fully integrates with identity and access management systems, and offers numerous ways to trigger computations.
 
 ### [Samba](https://www.samba.org/) <Badges user="samba-team" repo="samba" />
 
