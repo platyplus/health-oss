@@ -14,7 +14,7 @@ features:
     details: 'Technologies that handle the user interface: React, Vue, D3...'
     href: /frontend
   - title: Backend
-    details: 'Server-side development: databases, APIs, encryption...'
+    details: 'Server-side development: databases, APIs, search engines...'
     href: /backend
   - title: Programing languages
     details: 'Programing languages and their landscape: JavaScript, Python...'

@@ -44,13 +44,13 @@ open-source LIMS Core based on the CMS Plone
 
 ### [Metabase](https://www.metabase.com/) <Badges user="metabase" repo="metabase"/>
 
-Metabase is an open-source business intelligence tool. It lets ask questions about data, and displays answers in formats that make sense, whether that’s a bar graph or a detailed table.
+Metabase is an open-source business intelligence (BI) tool. It lets ask questions about data, and displays answers in formats that make sense, whether that’s a bar graph or a detailed table.
 
 Questions can be saved for later, making it easy to come back to them, or questions can be grouped into great looking dashboards. Metabase also makes it easy to share questions and dashboards with the rest of a team.
 
 ### [Superset](https://superset.incubator.apache.org/) <Badges user="apache" repo="incubator-superset"/>
 
-Apache Superset is a modern, enterprise-ready business intelligence web application.
+Apache Superset is a modern, enterprise-ready business intelligence web application. Apache choose to develop a more comprehensive BI tool, but comes with a less ergonomic user interface than Metabase.
 
 ## Terminology, Classification and Interoperability
 
