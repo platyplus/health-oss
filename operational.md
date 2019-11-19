@@ -18,7 +18,7 @@ HospitalRun is an offline-first Docker-based EHR - HIS application.
 
 ### [OpenEMR](http://open-emr.org/) <Badges user="openemr" repo="openemr" />
 
-OpenEMR is an open source electronic health records and medical practice management solution. ONC certified with international usage, OpenEMR's goal is a superior alternative to its proprietary counterparts.
+OpenEMR is an open-source electronic health records and medical practice management solution. ONC certified with international usage, OpenEMR's goal is a superior alternative to its proprietary counterparts.
 
 ### [LibreHealth EHR](http://librehealth.io/) <Badges user="LibreHealthIO" repo="lh-ehr" />
 
@@ -38,13 +38,13 @@ Global OpenELIS (Enterprise Laboratory Information System) is an initiative to p
 
 ### [Senaite](https://www.senaite.com) <Badges user="senaite" repo="senaite.core" />
 
-Open Source LIMS Core based on the CMS Plone
+open-source LIMS Core based on the CMS Plone
 
 ## Analytics
 
 ### [Metabase](https://www.metabase.com/) <Badges user="metabase" repo="metabase"/>
 
-Metabase is an open source business intelligence tool. It lets ask questions about data, and displays answers in formats that make sense, whether that’s a bar graph or a detailed table.
+Metabase is an open-source business intelligence tool. It lets ask questions about data, and displays answers in formats that make sense, whether that’s a bar graph or a detailed table.
 
 Questions can be saved for later, making it easy to come back to them, or questions can be grouped into great looking dashboards. Metabase also makes it easy to share questions and dashboards with the rest of a team.
 
@@ -56,7 +56,7 @@ Apache Superset is a modern, enterprise-ready business intelligence web applicat
 
 ### [Open Concept Lab](https://openconceptlab.org/) <Badges user="OpenConceptLab" repo="oclapi" />
 
-The Open Concept Lab (OCL) consists of an open source terminology management system (distributed under MPLv2 with a health care disclaimer) to help collaboratively manage, publish, and use metadata in the cloud alongside the global community. Imagine GitHub for indicators, terminology, and metadata—a one-stop shop to access international standards, create and publish your own definitions, or browse country and global indicators with mappings to the diagnoses, procedures, and other data definitions used to calculate them.
+The Open Concept Lab (OCL) consists of an open-source terminology management system (distributed under MPLv2 with a health care disclaimer) to help collaboratively manage, publish, and use metadata in the cloud alongside the global community. Imagine GitHub for indicators, terminology, and metadata—a one-stop shop to access international standards, create and publish your own definitions, or browse country and global indicators with mappings to the diagnoses, procedures, and other data definitions used to calculate them.
 
 ### [Aristotle Meta Data Registry](http://www.aristotlemetadata.com/) <Badges user="aristotle-mdr" repo="aristotle-metadata-registry" />
 
@@ -74,12 +74,12 @@ To ensure interventions reach recommended coverage thresholds, it is necessary t
 
 ### [SORMAS](https://sormasorg.helmholtz-hzi.de/) <Badges user="hzi-braunschweig" repo="SORMAS-Project" />
 
-The Surveillance Outbreak Response Management and Analysis System (SORMAS®) is an open source software that is designed to organize and facilitate disease control and outbreak management procedures in addition to disease surveillance and epidemiological analysis for all administrative levels of the public health system. The mission of SORMAS is to improve prevention and control of communicable diseases particularly in resource-poor settings. SORMAS is free of charge and adheres to the highest data protection standards, good scientific practice, and open access policy. SORMAS is characterized by the following features: digitalized notification at the health facility level, bidirectional information flow, contact follow-up
+The Surveillance Outbreak Response Management and Analysis System (SORMAS®) is an open-source software that is designed to organize and facilitate disease control and outbreak management procedures in addition to disease surveillance and epidemiological analysis for all administrative levels of the public health system. The mission of SORMAS is to improve prevention and control of communicable diseases particularly in resource-poor settings. SORMAS is free of charge and adheres to the highest data protection standards, good scientific practice, and open access policy. SORMAS is characterized by the following features: digitalized notification at the health facility level, bidirectional information flow, contact follow-up
 management, and user-centred design. SORMAS includes disease-specific process models for high priority, epidemic-prone diseases.
 
 ## Mobile Health
 
-### [OpenDataKit](https://opendatakit.org/) <Badges user="opendatakit" repo="collect"/>
+### [Open Data Kit](https://opendatakit.org/) <Badges user="opendatakit" repo="collect"/>
 
 The Open Data Kit community produces free and open-source software for collecting, managing, and using data in resource-constrained environments.
 
@@ -98,7 +98,7 @@ national level, thanks to simple device deployment and translation features.
 
 ### [OpenSRP](http://smartregister.org/) <Badges user="OpenSRP" repo="opensrp-client-core"/>
 
-Open Smart Register Platform is an open source mobile health platform that allows frontline health workers to electronically register and track the health of their entire client population.
+Open Smart Register Platform is an open-source mobile health platform that allows frontline health workers to electronically register and track the health of their entire client population.
 
 ### [RapidPro](https://rapidpro.io/) <Badges user="rapidpro" repo="rapidpro"/>
 
@@ -115,7 +115,7 @@ monitoring.
 
 ### [FrontlineSMS](https://www.frontlinesms.com/) <Badges user="frontlinesms" repo="frontlinesms2" />
 
-FrontlineSMS is a free open source software used by a variety of organizations to distribute and collect information via text messaging (SMS). The software works without an internet connection and with a cell phone and computer.
+FrontlineSMS is a free open-source software used by a variety of organizations to distribute and collect information via text messaging (SMS). The software works without an internet connection and with a cell phone and computer.
 
 ### [mHero](https://www.mhero.org/)
 

@@ -10,13 +10,13 @@ Relational databases allow a strict structuring of the data, that ensures its co
 
 #### [PostgreSQL](https://www.postgresql.org/) <Badges user="postgres" repo="postgres" />
 
-PostgreSQL is a powerful, open source object-relational database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads.
+PostgreSQL is a powerful, open-source object-relational database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads.
 
-PostgreSQL has earned a strong reputation for its proven architecture, reliability, data integrity, robust feature set, extensibility, and the dedication of the open source community behind the software to consistently deliver performant and innovative solutions. PostgreSQL runs on all major operating systems, is [ACID](https://en.wikipedia.org/wiki/ACID)-compliant, and has powerful add-ons such as the popular PostGIS geospatial database extender. PostgreSQL has become the open source relational database of choice for many people and organisations.
+PostgreSQL has earned a strong reputation for its proven architecture, reliability, data integrity, robust feature set, extensibility, and the dedication of the open-source community behind the software to consistently deliver performant and innovative solutions. PostgreSQL runs on all major operating systems, is [ACID](https://en.wikipedia.org/wiki/ACID)-compliant, and has powerful add-ons such as the popular PostGIS geospatial database extender. PostgreSQL has become the open-source relational database of choice for many people and organisations.
 
 #### [MySQL](https://www.mysql.com/) <Badges user="mysql" repo="mysql-server" />
 
-MySQL is a relational database management system (RDBMS) developed by Oracle that is based on structured query language (SQL). MySQL is one of the world's most popular open source database. With its performance, reliability and ease-of-use, MySQL has become a common choice for web-based applications. It's used by high profile web companies, such as Facebook, Twitter, YouTube, Yahoo! and more.
+MySQL is a relational database management system (RDBMS) developed by Oracle that is based on structured query language (SQL). MySQL is one of the world's most popular open-source database. With its performance, reliability and ease-of-use, MySQL has become a common choice for web-based applications. It's used by high profile web companies, such as Facebook, Twitter, YouTube, Yahoo! and more.
 
 ### NoSQL databases
 
@@ -101,7 +101,7 @@ Several libraries are avaiable to connect a computer with a GSM mobile or any ot
 
 ### Cloud services
 
-Alternatively, it is possible to delegate the sending and receiving of SMS to a cloud platform through an HTTP API. As explain in the above, this approach is not open source, but you may want to keep it simple in delegating SMS management to a third party. Here are two of the most popular SMS cloud services:
+Alternatively, it is possible to delegate the sending and receiving of SMS to a cloud platform through an HTTP API. As explain in the above, this approach is not open-source, but you may want to keep it simple in delegating SMS management to a third party. Here are two of the most popular SMS cloud services:
 
 - [Twilio](https://www.twilio.com/)
 - [Clickatell](https://www.clickatell.com/)

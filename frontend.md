@@ -10,7 +10,7 @@ Vue is the most popular frontend framework based on its number of GitHub stars. 
 
 ### [React](https://reactjs.org/) <Badges user="facebook" repo="react" />
 
-React has been created and is still backed by Facebook. React has the biggest open source community, and countless libraries are available open source. While React offers the biggest flexibility, its learning curve may be a bit steeper than Vue.
+React has been created and is still backed by Facebook. React has the biggest open-source community, and countless libraries are available open-source. While React offers the biggest flexibility, its learning curve may be a bit steeper than Vue.
 
 ### [Angular](https://angular.io/) <Badges user="angular" repo="angular" />
 
