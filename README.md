@@ -2,19 +2,23 @@
 
 Curated list of open-source resources for health interventions in low and middle-income countries.
 
-Static website developed with [VuePress](https://vuepress.vuejs.org/).
+Static website developed using [VuePress](https://vuepress.vuejs.org/).
+
+## Installation
+
+```
+npm i -g vuepress
+```
 
 ## Development
 
 ```
-npm i -g vuepress
 vuepress dev
 ```
 
 ## Production
 
 ```
-npm i -g vuepress
 vuepress build
 ```
 
